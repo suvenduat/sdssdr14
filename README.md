@@ -13,9 +13,9 @@
 
 Here, you will find the entire spectral catalog in FITS format and a quick assessment of the spectral fitting area of ​​each DR14 quasars. 
 
-The main catalog (“dr14q_spec_prop.fits”) is based on the spectral information from this study consisting of 281 columns, which are described in Table B4.
-An extended catalog (“dr14q_spec_prop_ext.fits”) where all the columns of DR14Q (Paris et al. 2018) are appended after the main catalog (i.e., after column # 281). The extended catalog has a total of 387 columns.
-Spectral fitting plots of individual quasars.
+- The main catalog (“dr14q_spec_prop.fits”) is based on the spectral information from this study consisting of 281 columns, which are described in Table B4.
+- An extended catalog (“dr14q_spec_prop_ext.fits”) where all the columns of DR14Q (Paris et al. 2018) are appended after the main catalog (i.e., after column # 281). The extended catalog has a total of 387 columns.
+- Spectral fitting plots of individual quasars.
 
 <!-- /wp:paragraph -->
 
