@@ -1,6 +1,6 @@
 # sdssdr14
 
-## A Catalog of quasar properties from SDSS DR14
+## A Catalog of quasar properties from SDSS DR14: supplementary material
 
 
 <!-- wp:paragraph -->
