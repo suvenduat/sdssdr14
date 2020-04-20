@@ -17,3 +17,9 @@ Catalog of quasar properties from SDSS DR14
 <!-- wp:paragraph {"fontSize":"larger"} -->
 <p class="has-larger-font-size"><font face="Times New Roman, Times, serif"><font face="Times New Roman, Times, serif"><strong><a href="https://seafile.utu.fi/d/9866433c200743119e92/">Download the catalog and Plots</a> &nbsp;</strong>&nbsp;</font></font></p>
 <!-- /wp:paragraph -->
+
+<p><font face="Times New Roman, Times, serif"><font face="Times New Roman, Times, serif">If you any difficulties in using this catalog or you have any suggestions, please <a href="mailto:suvenduat@gmail.com">let me know</a>.</font></font></p>
+
+
+<figure class="wp-block-image"><img src="https://blogit.utu.fi/sdssdr14/wp-content/uploads/sites/528/2020/04/Lbol_Z.png" alt="" class="wp-image-81"/><figcaption>Fig: Bolometric luminosity vs. redshift. The 20, 40, 68 and 95 percentile density contours along with density maps are shown. The redshift and bolometric luminosity distributions are also shown for the DR14 quasars sample (empty histogram, this work) along with DR7 quasars (filled histogram, S11). A large number of high redshift and low luminous quasars were targeted by DR14 compared to DR7.</figcaption></figure>
+
