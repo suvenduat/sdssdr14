@@ -1,6 +1,6 @@
 # sdssdr14
 
-<p class="has-larger-font-size"><font face="Times New Roman, Times, serif"><font face="Times New Roman, Times, serif"><strong>A Catalog of quasar properties from SDSS DR14</a> &nbsp;</strong>&nbsp;</font></font></p>
+<p class="has-huge-font-size"><font face="Times New Roman, Times, serif"><font face="Times New Roman, Times, serif"><strong>A Catalog of quasar properties from SDSS DR14</a> &nbsp;</strong>&nbsp;</font></font></p>
 
 
 <!-- wp:paragraph -->
