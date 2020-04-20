@@ -1,6 +1,7 @@
 # sdssdr14
 
-Catalog of quasar properties from SDSS DR14
+<p class="has-larger-font-size"><font face="Times New Roman, Times, serif"><font face="Times New Roman, Times, serif"><strong>A Catalog of quasar properties from SDSS DR14</a> &nbsp;</strong>&nbsp;</font></font></p>
+
 
 <!-- wp:paragraph -->
 <p>Rakshit et al. (2020), ApJS, submitted (<a href="https://arxiv.org/pdf/1910.10395.pdf">ArXiv</a>)</p>
